@@ -1,0 +1,22 @@
+Math：数学函数对象  
+->Math是对象数据类型的，他是Object的一个实例，Math.__proto__=Object.prototype
+->Math中提供了一些进行数值处理的方法
+	Math.abs([val])：获取绝对值
+	Math.ceil(val])/Math.floor([var]) ：向上或向下取整
+	Math.round([val])：四舍五入
+	Math.random()：获取[0-1)之间的随机小数（包含0不包含1）
+	Math.round(Math.random()*(m-n_+n);获取n-m之间的随机整数
+	Math.max([val],[val],[val],...)：获取一堆数中最大值
+	Math.min([val],[val],[val],...)：获取一堆数中最小值
+	Math.pow([val],[n])：获取val值的n次方值，例如：Math.pow(2,10) = 1024  2的10次方
+	Math.sqrt([val])：获取val值的开方 例如：Math.sqrt(16)->4   16的开方是4
+	Math.PI.toFixed(2)：获取圆周率数字，在调去Number的toFixed方法保留小数点后面N位 -> 3.14
+	想要更多方法，详见console.dir(Math);
+	
+
+
+
+
+
+
+
