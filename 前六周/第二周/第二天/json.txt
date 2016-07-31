@@ -1,0 +1,7 @@
+[
+     {"name":"田喜","age":30,"height":175,"weight":75,"gender":1},
+     {"name":"陈超","age":25,"height":180,"weight":80,"gender":1},
+     {"name":"张学荣","age":21,"height":176,"weight":70,"gender":1},
+     {"name":"龙霞","age":19,"height":160,"weight":45,"gender":0},
+     {"name":"李宁","age":19,"height":160,"weight":45,"gender":0}
+ ]
